@@ -1,2 +1,1 @@
-# Walii78.github.io
-My portfolio website
+Welcome to my personal portfolio website! This project showcases my work, skills, and experiences using HTML, CSS, and JavaScript. It's a visual representation of my journey as a developer and the projects I've been involved in.
